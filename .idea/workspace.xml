@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d97a433f-a8a7-4aa9-824e-7dc06a56bcc1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="d97a433f-a8a7-4aa9-824e-7dc06a56bcc1" name="Changes" comment="V1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +20,6 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
@@ -108,28 +102,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStart] (1)">
-    <configuration name="ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="appRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStop] (1)">
     <configuration name="ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStartDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -193,6 +166,27 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStop] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="appStop" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStop]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -216,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStop] (1)" />
         <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStart] (1)" />
         <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStop]" />
         <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStart]" />
         <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appStartDebug]" />
-        <item itemvalue="Gradle.ProgrammingServletEntirelyUniqueUnusedNameNeverSeenBefore [appRun]" />
       </list>
     </recent_temporary>
   </component>
@@ -235,8 +229,17 @@
       <workItem from="1667923090996" duration="137000" />
       <workItem from="1667923245314" duration="2301000" />
       <workItem from="1667925577710" duration="44000" />
-      <workItem from="1667925658366" duration="126000" />
+      <workItem from="1667925658366" duration="765000" />
+      <workItem from="1667926430758" duration="323000" />
     </task>
+    <task id="LOCAL-00001" summary="V1">
+      <created>1667925876736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667925876736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,5 +255,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
 </project>
